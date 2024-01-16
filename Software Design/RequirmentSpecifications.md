@@ -23,14 +23,24 @@ In this project, I am focusing on the full development on [Insert App Name] from
 - The app will follow along with the workout with an inbuilt timer
 - The app will have an inbuilt week by week scheduler
 - Users can create customiseable workouts, exercises and plans
+- Cutomisable plans have a calculated option where a user can determine the increase or decrease in intensity of exercises through the plan week by week, this feature will present the calculated intensity too the user
 - Users can share and customised workouts, exercises or plans by viewing other users profiles
-- User data will be analysed and presented too the users
-- User data will be used too show what weight or grade difficulty the user should be working at with certain exercises, taking into account RPE (rate of percieved exertion).
-- There will be a training history page for climbers too view their progress
-- At the begining of starting a workout the last exercise/workout training notes will be displayed
-- At the end of the workout and/or the week have a "how u think u performed", motivation, "How challenging was this workout/week" slider.
-- Real time tracking of planned volume, completed volume and reate of percieved exertion all in 1 graphical model
-- 
+- User data will be analysed and presented too the users via methods below:
+  - User data will be used too show what weight or grade difficulty the user should be working at with certain exercises, taking into account RPE (rate of percieved exertion).
+  - There will be a training history page for climbers too view their progress
+  - At the begining of starting a workout the last exercise/workout training notes will be displayed
+  - At the end of the workout and/or the week have a "how u think u performed", motivation, "How challenging was this workout/week" and Percived Exertion slider.
+  - Show RPE into grahpical model
+  - Real time tracking of planned volume, completed volume and rate of percieved exertion all in 1 graphical model
+  - Visual representation improvement in fun graphic like a growing featus
+  - Place too upload progression vids and attach notes with time stamps etc, page dedicated too tracking progress and improvements.
+  - Add a page too track menstural cycle too syncronize with training and give recommendations through workouts based on collected data
+  - A feeling, performance and motivation in 1 graphical model
+  - Workouts/workload completed by type graphical model
+  -  Workouts/workload completed by week graphical model
+  - A choice too see graphs in a line, bar or pie chart
+  - A way too export training data too CSV format
+
 
 ### User Characteristics
 
