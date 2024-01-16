@@ -25,11 +25,12 @@ In this project, I am focusing on the full development on [Insert App Name] from
 - Users can create customiseable workouts, exercises and plans
 - Users can share and customised workouts, exercises or plans by viewing other users profiles
 - User data will be analysed and presented too the users
-- User data will be used too show what weight or grade difficulty the user should be working at with certain exercises
+- User data will be used too show what weight or grade difficulty the user should be working at with certain exercises, taking into account RPE (rate of percieved exertion).
 - There will be a training history page for climbers too view their progress
 - At the begining of starting a workout the last exercise/workout training notes will be displayed
 - At the end of the workout and/or the week have a "how u think u performed", motivation, "How challenging was this workout/week" slider.
 - Real time tracking of planned volume, completed volume and reate of percieved exertion all in 1 graphical model
+- 
 
 ### User Characteristics
 
