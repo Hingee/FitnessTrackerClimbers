@@ -19,7 +19,7 @@ In this project, I am focusing on the full development on [Insert App Name] from
 
 ## Overall Description
 ### Product Features
-- Database of in built workouts and exercises
+- Database of inbuilt workouts and exercises
 - The app will follow along with the workout with an inbuilt timer
 - The app will have an inbuilt week by week scheduler
 - Users can create customiseable workouts, exercises and plans
