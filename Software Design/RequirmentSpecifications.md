@@ -43,10 +43,18 @@ In this project, I am focusing on the full development on [Insert App Name] from
 
 
 ### User Characteristics
+- [Insert App Name] considers 3 main classes of users:
+  - **Climbers:** A person who will be using the application for training.
+  - **Coaches:** A person who will be using the application for creating plans and workouts for clients.
 
 ### Constraints
+- **Time:**
+- **Man-Power:**
+- **Data-Security:**
+- **Legalities:**
 
 ### Assumptions and Dependencies
+
 
 ## Specific Requirements
 
