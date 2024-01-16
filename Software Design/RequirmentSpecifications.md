@@ -29,6 +29,7 @@ In this project, I am focusing on the full development on [Insert App Name] from
 - There will be a training history page for climbers too view their progress
 - At the begining of starting a workout the last exercise/workout training notes will be displayed
 - At the end of the workout and/or the week have a "how u think u performed", motivation, "How challenging was this workout/week" slider.
+- Real time tracking of planned volume, completed volume and reate of percieved exertion all in 1 graphical model
 
 ### User Characteristics
 
