@@ -48,13 +48,10 @@ In this project, I am focusing on the full development on [Insert App Name] from
   - **Coaches:** A person who will be using the application for creating plans and workouts for clients.
 
 ### Constraints
-- **Time:**
-- **Man-Power:**
-- **Data-Security:**
-- **Legalities:**
-
-### Assumptions and Dependencies
-
+- **Time:** I would like to get this project done by 2025
+- **Man-Power:** This is a major constraint as I am the only person involved in this project
+- **Data-Security:** Guarding user-data must be paramount as the data can be very private for users
+- **Legalities:** I have too be careful too make sure I follow the australias engineering code of ethics.
 
 ## Specific Requirements
 
