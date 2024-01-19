@@ -54,7 +54,115 @@ In this project, I am focusing on the full development on [Insert App Name] from
 - **Legalities:** I have too be careful too make sure I follow the australias engineering code of ethics.
 
 ## Specific Requirements
-
+<table>
+    <thead>
+        <tr>
+            <th>Section</th>
+            <th>Requirement No</th>
+            <th>Description</th>
+            <th>Fit Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Climber Management Section -->
+        <tr>
+            <td rowspan=5>Climber Management</td>
+            <td>F1</td>
+            <td><!-- Stuff --></td>
+            <td>
+               <!-- Stuff -->
+                <ul>
+                    <li><!-- Stuff --></li>
+                    <li><!-- Stuff --></li>
+		    <li><!-- Stuff --></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>F2</td>
+            <td><!-- Stuff --></td>
+            <td><!-- Stuff --></td>
+        </tr>
+        <tr>
+            <td>F3</td>
+            <td><!-- Stuff --></td>
+            <td>
+                <!-- Stuff -->
+            </td>
+        </tr>
+        <tr>
+            <td>F4</td>
+            <td><!-- Stuff --></td>
+            <td>
+                <!-- Stuff -->
+            </td>
+        </tr>
+        <tr>
+            <td>N1</td>
+            <td>
+                <!-- Stuff -->
+            </td>
+            <td>
+		<!-- Stuff -->
+	    </td>
+        </tr>
+        <!-- Coach Management Section -->
+        <tr>
+            <td rowspan=4>Coach Management</td>
+            <td>F5</td>
+            <td><!-- Stuff --></td>
+            <td>
+                <!-- Stuff -->
+            </td>
+        </tr>
+        <tr>
+            <td>F6</td>
+            <td><!-- Stuff --></td>
+            <td>
+                <!-- Stuff -->
+            </td>
+        </tr>
+        <tr>
+            <td>F7</td>
+            <td><!-- Stuff --></td>
+            <td>
+		<!-- Stuff -->
+	    </td>
+        </tr>
+        <tr>
+            <td>N2</td>
+            <td><!-- Stuff --></td>
+        </tr>
+        <!-- Usability Section -->
+        <tr>
+            <td rowspan=4>Usability</td>
+            <td>N3</td>
+            <td>Scalability</td>
+            <td>
+               Succesfully handle at least 1000 active users at the same time without sacrificing its performance, reliability, and availability.
+            </td>
+        </tr>
+        <tr>
+            <td>N4</td>
+            <td>Availability</td>
+            <td> TMinimise down times after system failures. The system should aim for 99.99 percent uptime.</td>
+        </tr>
+        <tr>
+            <td>N5</td>
+            <td> Reliability </td>
+            <td> 
+                System is resistant against system failures using error handling and employ proper recovery mechanisms.              
+            </td>
+        </tr>
+        <tr>
+            <td>N6</td>
+            <td> Testability </td>
+            <td> 
+                System should be built with very little coupling and with high modularity too assist in good testing procedures.
+            </td>
+        </tr>
+    </tbody>
+</table>
 ## Use cases
 ### Use Case Diagram
 
